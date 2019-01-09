@@ -6,7 +6,7 @@ description:
 map:
   latitude: 37.770311
   longitude: -122.464093
-  address: "San Franscisco, California"
+  address: "san franscisco, california"
   zoom: 10
 ---
 <div class="map" id="map"></div>
@@ -17,23 +17,23 @@ map:
 		<input type="hidden" name="_to" value="wworland@gmail.com" />
 		<input type="text" name="_gotcha" style="display: none;">
 
-		<label for="name">Full Name</label>
+		<label for="name">full name</label>
 		<input type="text" name="name" id="name" placeholder="Enter your name..." />
 
-		<label for="email">Email Address</label>
+		<label for="email">email address</label>
 		<input type="email" name="email" id="email" placeholder="Enter your email..." required />
 
-		<label for="message">Message</label>
+		<label for="message">message</label>
 		<textarea name="message" id="message" placeholder="Enter your message..."></textarea>
 
 		<input type="submit" value="Send Message" />
 	</form>
 
 	<div class="contact-details">
-		<h3 class="editable">Address</h3>
+		<h3 class="editable">address</h3>
 		<address><a target="_blank" href="https://www.google.com/maps/place/{{ page.map.address | url_encode }}">{{ page.map.address | replace: ", ", ", <br>" }}</a></address>
 
-		<h3 class="editable">Email</h3>
+		<h3 class="editable">email</h3>
 		<p><a href="mailto:wworland@gmail.com">support@greatedevspace.com</a></p>
 	</div>
 </div>
