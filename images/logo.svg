@@ -3,6 +3,21 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="357.25px" height="124px" viewBox="0 0 357.25 124" enable-background="new 0 0 357.25 124" xml:space="preserve">
-<rect x="1.875" y="36.667" fill="none" width="353" height="47.067"/>
-<text transform="matrix(1 0 0 1 7.8555 72.3613)" fill="#FFFFFF" font-family="'Ubuntu'" font-size="46">createDEVspace</text>
+<image overflow="visible" width="512" height="512" xlink:href="space.png"  transform="matrix(0.1721 0 0 0.1721 256.875 17.584)">
+</image>
+<image overflow="visible" width="1600" height="1600" xlink:href="source-code.png"  transform="matrix(0.0738 0 0 0.0738 119.5566 2.5757)">
+</image>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="9.125" y="15.896" width="91.495" height="91.495"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_2_)">
+		
+			<image overflow="visible" width="512" height="512" xlink:href="download.png"  transform="matrix(0.1787 0 0 0.1787 9.125 15.8965)">
+		</image>
+	</g>
+</g>
 </svg>
