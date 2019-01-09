@@ -1,38 +1,38 @@
 - links:
-  - name: Pricing
-    link: /pricing/
-  - name: Blog
+  - name: home
+    link: /
+  - name: blog
     link: /blog/
-  - name: About
+  - name: about
     link: /about/
-  - name: Contact
+  - name: contact
     link: /contact/
 - links:
-  - name: Login
+  - name: login
     link: /
     new_window: true
-  - name: Sign Up
+#  - name: sign up
+#    link: /
+#    new_window: true
+  - name: docs
     link: /
     new_window: true
-  - name: Docs
-    link: /
-    new_window: true
-  - name: Status
+  - name: status
     link: /
     new_window: true
 - links:
-  - name: Facebook
-    link: https://facebook.com
+#  - name: facebook
+#   link: https://facebook.com
+#   new_window: true
+#   social_icon: Facebook
+  - name: twitter
+    link: https://twitter.com/ninexmobility
+    social_icon: twitter
     new_window: true
-    social_icon: Facebook
-  - name: Twitter
-    link: https://twitter.com
-    social_icon: Twitter
-    new_window: true
-  - name: YouTube
-    link: https://youtube.com
-    social_icon: YouTube
-    new_window: true
+#  - name: YouTube
+#    link: https://youtube.com
+#    social_icon: YouTube
+#    new_window: true
   - name: RSS
     link: /feed.xml
     social_icon: RSS

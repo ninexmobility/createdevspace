@@ -1,7 +1,7 @@
 ---
-name: Anna Thompson
-position: Marketing
-image_path: https://source.unsplash.com/collection/139386/601x601?a=.png
-twitter: CloudCannonApp
-blurb: Anna likes long walks on the beach and buffet breakfast.
+name: Will Worland
+position: Mobility Consultant | Platform Engineer
+image_path: /images/ninex_circle.png
+twitter: ninexmobility
+blurb: Will likes stuff and things.
 ---
