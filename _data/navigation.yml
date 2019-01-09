@@ -1,19 +1,23 @@
-- name: Blog
+- name: home
+  link: /
+  new_window: false
+  highlight: false
+- name: blog
   link: /blog/
   new_window: false
   highlight: false
-- name: About
+- name: about
   link: /about/
   new_window: false
   highlight: false
-- name: Contact
+- name: contact
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
-  link: /
-  new_window: true
-  highlight: false
+# - name: login
+#   link: /
+#   new_window: true
+#   highlight: false
 # - name: Sign Up
 #   link: /
 #   new_window: true
