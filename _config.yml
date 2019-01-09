@@ -11,9 +11,9 @@ disqus_shortname:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: A place I pust stuff I make.
-author: Will Worland aka. ninex
-  name: Will Worland
-  email: wworland@gmail.com
+author:
+  name:
+  email: 
   twitter: ninexmobility # twitter username without the @ symbol
 social:
   name: LinkedIn
